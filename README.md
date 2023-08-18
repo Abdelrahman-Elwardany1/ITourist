@@ -33,6 +33,8 @@ Run the App: Launch the app on your preferred Android emulator or physical devic
 
 Explore and Contribute: Delve into the source code, explore the features, and contribute to enhance I Tourist's offerings for fellow travelers.
 
+<img src="app/src/main/res/Screens/general/home.png" alt="Sample Image" width="300"/>
+
 ## Technologies Used
 - Android Native Development
 - Kotlin
