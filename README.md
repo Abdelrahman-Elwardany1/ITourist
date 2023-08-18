@@ -33,7 +33,11 @@ Run the App: Launch the app on your preferred Android emulator or physical devic
 
 Explore and Contribute: Delve into the source code, explore the features, and contribute to enhance I Tourist's offerings for fellow travelers.
 
-<img src="app/src/main/res/Screens/general/home.png" alt="Sample Image" width="300"/>
+<div style="display: flex; justify-content: space-between;">
+  <img src="app/src/main/res/Screens/general/home.png" alt="Home screen" width="30%">
+  <img src="app/src/main/res/Screens/general/city.png" alt="City screen" width="30%">
+  <img src="app/src/main/res/Screens/general/place.png" alt="Place screen" width="30%">
+</div>
 
 ## Technologies Used
 - Android Native Development
