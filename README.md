@@ -42,7 +42,7 @@ Explore and Contribute: Delve into the source code, explore the features, and co
 ## Technologies Used
 - Android Native Development
 - Kotlin
-- Firebase (for chat functionality)
+- Firebase (for chat functionality and the back-end service)
 - TomTom Maps API
 - Contributing
 - We wholeheartedly welcome contributions from all developers! To contribute, follow these steps:
