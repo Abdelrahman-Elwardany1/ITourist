@@ -43,7 +43,7 @@ Explore and Contribute: Delve into the source code, explore the features, and co
 - Android Native Development
 - Kotlin
 - Firebase (for chat functionality)
-- Google Maps API
+- TomTom Maps API
 - Contributing
 - We wholeheartedly welcome contributions from all developers! To contribute, follow these steps:
 
