@@ -1,4 +1,4 @@
-## I Tourist - Your Ultimate City Exploration Companion
+## ITourist - Your Ultimate City Exploration Companion
 
 I Tourist is a state-of-the-art Android native application, crafted to transform the way tourists engage with and discover new cities. Boasting an intuitive user interface and a comprehensive array of features, I Tourist redefines your travel experiences by providing effortless access to invaluable insights and personalized guidance.
 
