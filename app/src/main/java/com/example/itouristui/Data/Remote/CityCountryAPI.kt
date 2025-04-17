@@ -16,7 +16,7 @@ private val BASE_URL = "https://spott.p.rapidapi.com/"
 
 private val client = OkHttpClient.Builder().addInterceptor{chain->
     chain.request().newBuilder()
-        .addHeader("X-RapidAPI-Key","Your-API")
+        .addHeader("X-RapidAPI-Key","API KEY")
         .addHeader("X-RapidAPI-Host","spott.p.rapidapi.com")
         .build().run {
             chain.proceed(this)
